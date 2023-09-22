@@ -1,0 +1,5 @@
+C:/Users/weast/source/Unity/CapsuleMove/.utmp/RelWithDebInfo/2ku21x2j/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/weast/source/Unity/CapsuleMove/.utmp/RelWithDebInfo/2ku21x2j/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/weast/source/Unity/CapsuleMove/.utmp/RelWithDebInfo/2ku21x2j/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/weast/source/Unity/CapsuleMove/.utmp/RelWithDebInfo/2ku21x2j/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/weast/source/Unity/CapsuleMove/.utmp/RelWithDebInfo/2ku21x2j/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
