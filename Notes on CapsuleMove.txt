@@ -1,0 +1,14 @@
+Notes on CapsuleMove
+
+1/1/23 - experimenting with adding Vivox voice chat to a project
+Unity documentation for Vivox:
+https://docs.unity.com/ugs/en-us/manual/vivox-unity/manual/Unity/vivox-unity-first-steps
+
+I went to cloud.unity.com and made sure CapsuleMove was connected to the cloud - which it apparently was when I logged into the cloud using my Unity id.
+select Window > Package Manager > + > Add package by name) (com.unity.services.vivox)
+to streamline the process of handling player identity, add "com.unity.services.authentication" to the manifest.json file.
+
+A different set of instructions I didn't use is at:
+https://support.unity.com/hc/en-us/articles/6380084154772-Vivox-How-do-I-get-started-with-Vivox-in-my-Unity-Project-
+
+.... got it to work using the first instructions - at least the echo test works; starts when A is pressed to create host.  Need to add to client, and need to give users unique usernames to be able to connect multiple users....

@@ -71,6 +71,7 @@ Library: C:\Users\weast\source\Unity\CapsuleMove\Temp\BurstOutput\Data\Plugins\x
 --assembly-defines=Unity.Services.Core.Threading;
 --assembly-defines=Unity.Services.QoS;
 --assembly-defines=Unity.Services.Relay;
+--assembly-defines=Unity.Services.Vivox;
 --assembly-defines=Unity.TextMeshPro;
 --assembly-defines=Unity.Timeline;
 --assembly-defines=Unity.Tutorials.Core;
@@ -242,6 +243,7 @@ Library: C:\Users\weast\source\Unity\CapsuleMove\Temp\BurstOutput\Data\Plugins\x
 --assembly-defines=Unity.Services.Core.Threading;
 --assembly-defines=Unity.Services.QoS;
 --assembly-defines=Unity.Services.Relay;
+--assembly-defines=Unity.Services.Vivox;
 --assembly-defines=Unity.TextMeshPro;
 --assembly-defines=Unity.Timeline;
 --assembly-defines=Unity.Tutorials.Core;

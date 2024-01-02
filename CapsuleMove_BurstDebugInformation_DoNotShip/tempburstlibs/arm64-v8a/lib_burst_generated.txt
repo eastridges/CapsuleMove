@@ -47,6 +47,7 @@ Library: C:\Users\weast\source\Unity\CapsuleMove\Temp\BurstOutput\tempburstlibs\
 --assembly-defines=Unity.Services.Core.Threading;
 --assembly-defines=Unity.Services.QoS;
 --assembly-defines=Unity.Services.Relay;
+--assembly-defines=Unity.Services.Vivox;
 --assembly-defines=Unity.XR.Management;
 --assembly-defines=Unity.XR.Oculus;
 --assembly-defines=UnityEngine;
